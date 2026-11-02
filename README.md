@@ -19,7 +19,7 @@ I studied architecture and worked as an architect for a few years; now I build p
 ## Odds & ends
 
 - [dsh-asc-cli](https://github.com/sleep9ull/dsh-asc-cli) — [DSH](https://www.deepseek.com/en/harness/) plugin for App Store Connect (TestFlight, release, feedback).
-- [skills](https://github.com/sleep9ull/skills) — Skill pack for AI-native PMs who ship full-stack with coding agents.
+- [sleep9ull-skills](https://github.com/sleep9ull/skills) — Skill pack for AI-native PMs who ship full-stack with coding agents.
 - [lark-handoff](https://github.com/sleep9ull/lark-handoff) — Feishu tasks → Codex → PR, results back on the task.
 
 ## Good stuff
