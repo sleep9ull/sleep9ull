@@ -12,7 +12,7 @@ At work: AI PM on [Viba](https://apps.apple.com/us/app/viba-me-see-your-vibe), t
 
 On my own: [Sudoku Sama](https://sleep9ull.com/sudoku-sama/), an iOS puzzle—a long think and one critical choice to finish the daily puzzle. On the [App Store](https://apps.apple.com/app/sudoku-sama/id6811580598).
 
-Still learning. Heavy [Grok Bot](https://x.ai/bot), for work and life. [Codex](https://openai.com/codex/) is my daily work tool.
+Still learning. Heavy [Grok Bot](https://x.ai/bot), for work and life. [Codex](https://openai.com/codex/) is my daily work tool. Lately I've been a bit obsessed, digging into [DeepSeek Harness](https://www.deepseek.com/en/harness/) and building plugins.
 
 I studied architecture and worked as an architect for a few years; now I build product. That still helps me solve the whole problem, and it helps a little with taste. A bit of everything—with AI I aim for about an 80 on each. Together, that’s strong.
 
