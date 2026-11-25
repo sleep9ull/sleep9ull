@@ -10,7 +10,9 @@ I stay close to user and product data: find the signal, dig for opportunity, the
 
 At work: AI PM on [Viba](https://apps.apple.com/us/app/viba-me-see-your-vibe), the company’s AI Styling Agent. I turn data into product changes, connect ops–product–eng end to end, and ship through CMS and agents with light engineering. I also own commercialization: infrastructure, in-product surfaces, and measurement.
 
-On my own: [Sudoku Sama](https://sleep9ull.com/sudoku-sama/), an iOS puzzle—a long think and one critical choice to finish the daily puzzle. On the [App Store](https://apps.apple.com/app/sudoku-sama/id6811580598).
+On my own: [Becomi](https://sleep9ull.com/becomi/), an iOS app for noting personal growth. I’m exploring what AI generation can bring to familiar needs: easier capture, cards made from everyday experiences, and small challenges that invite a next step. Over time, those notes also build a personal profile and memory to inform future suggestions.
+
+I’m also building an evaluation loop for its AI workflows: defining quality metrics, observing generations, tracing issues through real usage data, and turning them into evaluation cases to test improvements to prompts, model choices, and generation flows.
 
 Still learning. Heavy [Grok Bot](https://x.ai/bot), for work and life. [Codex](https://openai.com/codex/) is my daily work tool. Lately I've been a bit obsessed, digging into [DeepSeek Harness](https://www.deepseek.com/en/harness/) and building plugins.
 
